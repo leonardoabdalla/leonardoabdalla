@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**leonardoabdalla/leonardoabdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2>Olá, me chamo Leonardo Abdalla. Seja bem-vindo ao meu GitHub.</h2>
 
 - 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end
 - 🌱 Atualmente estou aprendendo Node.js, C#, Python.
