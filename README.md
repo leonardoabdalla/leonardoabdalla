@@ -9,3 +9,10 @@ Minha missão é promover acessibilidade através da tecnologi.Não existe nada 
 - 👯 Os projetos que irá encontrar dentre meus repositórios foram desenvolvidos tando individual quanto em grupo utilizando as tecnologias; HTML, CSS, Javascript, React, Redux, Context API, Hooks, Jest, Node.js com express, MySql, MongoDB, ORM sequelize, ODM mogoose, testes unitários e testes de integração.Os projetos foram desenvolvidos utilizando sistema operacional Unix, todos utilizando metodologias ágeis( Scrum e Kanban) e versionamento de código (Git/Github).
 - 📫 Email: leonardoabdalladeveloper@gmail.com
 - :phone: (21) 971433860
+
+
+<div>
+<a href="https://github.com/leonardoabdalla">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoabdalla&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoabdalla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
