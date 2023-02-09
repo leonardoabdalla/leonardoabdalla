@@ -17,6 +17,7 @@ ___
   <li>🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end.</li>
   <li>- 🌱 Atualmente estou aprendendo Node.js, C#, Python.</li>
   <li>- 👯 Os projetos que irá encontrar dentre meus repositórios foram desenvolvidos tando individual quanto em grupo utilizando as tecnologias; HTML, CSS, Javascript, React, Redux, Context API, Hooks, Jest, Node.js com express, MySql, MongoDB, ORM sequelize, ODM mogoose, testes unitários e testes de integração.Os projetos foram desenvolvidos utilizando sistema operacional Unix, todos utilizando metodologias ágeis( Scrum e Kanban) e versionamento de código (Git/Github).</li>
+  <li>- Linkedin: <a href="https://www.linkedin.com/in/leonardoabdalladeveloper/">Meu Linkedin</a></li>
   <li>- 📫 Email: leonardoabdalladeveloper@gmail.com</li>
   <li>- :phone: (21) 971433860</li>
 </ul>
@@ -43,8 +44,9 @@ ___
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoabdalla&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoabdalla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</br>
 
-![](https://komarev.com/ghpvc/?username=leonardoabdalla)
+</br>
+<h3>Contador de visitas:</h3>
+<p> <img src="https://profile-counter.glitch.me/leonardoabdalla/count.svg"/></p>
 
 ![snake gif](https://github.com/leonardoabdalla/leonardoabdalla/blob/output/github-contribution-grid-snake.svg)
