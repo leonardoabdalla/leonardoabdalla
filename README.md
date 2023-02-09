@@ -13,6 +13,7 @@ ___
 
 ___
 
+
 <ul>
   <li>🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end.</li>
   <li>- 🌱 Atualmente estou aprendendo Node.js, C#, Python.</li>
@@ -37,16 +38,27 @@ ___
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 </br>
+
 ___
 
+</br>
 <div>
 <a href="https://github.com/leonardoabdalla">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoabdalla&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoabdalla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+</br>
+  
+ ___
+  
 
 </br>
 <h3>Contador de visitas:</h3>
 <p> <img src="https://profile-counter.glitch.me/leonardoabdalla/count.svg"/></p>
+</br>
+
+___
+
+</br>
 
 ![snake gif](https://github.com/leonardoabdalla/leonardoabdalla/blob/output/github-contribution-grid-snake.svg)
