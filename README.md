@@ -20,7 +20,9 @@ ___
   <li>- 📫 Email: leonardoabdalladeveloper@gmail.com</li>
   <li>- :phone: (21) 971433860</li>
 </ul>
+
 ___
+
 </br>
 :shower:Ferramentas e Técnologias:
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
@@ -35,6 +37,7 @@ ___
 </p>
 </br>
 ___
+
 <div>
 <a href="https://github.com/leonardoabdalla">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoabdalla&layout=compact&langs_count=7&theme=dracula"/>
@@ -42,6 +45,6 @@ ___
 </div>
 </br>
 
-<p align="center">  <img align="center" src="https://profile-counter.gitch.me/leonardoabdalla.count.svg" /></p>
+<p align="center">  <img align="center" src="https://profile-counter.glitch.me/leonardoabdalla.count.svg" /></p>
 
 ![snake gif](https://github.com/leonardoabdalla/leonardoabdalla/blob/output/github-contribution-grid-snake.svg)
