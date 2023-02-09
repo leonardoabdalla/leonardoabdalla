@@ -45,6 +45,6 @@ ___
 </div>
 </br>
 
-<p align="center">  <img align="center" src="https://profile-counter.glitch.me/leonardoabdalla.count.svg" /></p>
+![](https://komarev.com/ghpvc/?username=leonardoabdalla)
 
 ![snake gif](https://github.com/leonardoabdalla/leonardoabdalla/blob/output/github-contribution-grid-snake.svg)
