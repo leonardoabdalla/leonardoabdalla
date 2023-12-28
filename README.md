@@ -7,12 +7,11 @@ ___
 <h2>Olá, me chamo Leonardo Abdalla:wave:</h2>
 <h3>Seja bem-vindo ao meu GitHub.</h3>
 
-<p>Sou desenvolvedor back-end, graduando em sistema da informação na IBMR, técnico em Sistemas de Internet pela UniDomBosco, proficiente em LIBRAS e apaixonado por inovações e desafios.</p> 
+<p>Sou desenvolvedor back-end, graduando em sistema de ineternet pela uniDomBosco, técnico em Sistemas de Internet pela UniDomBosco, proficiente em LIBRA e apaixonado por inovações e desafios.</p> 
 
 <p>Minha missão é promover acessibilidade através da tecnologia.Não existe nada que me satisfaça mais que poder ensinar e ajudar pessoas a se desenvolverem, sendo assim,desenvolver e atualizar aplicações para que se tornem mais acessíveis além de promover a inclusão de pessoas com deficiência na tecnologia são algumas das coisas que considero mais importantes e que dizem muito sobre quem eu sou.</p>
 
 ___
-
 
 <ul>
   <li>🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end.</li>
@@ -24,9 +23,10 @@ ___
 </ul>
 
 ___
-
 </br>
-:shower:Ferramentas e Técnologias:
+<h2> Certificações:</h2>
+<img src="https://img-c.udemycdn.com/course/750x422/5285190_e206_13.jpg"  width="200" heigth="200"/>
+<h2>Ferramentas e Técnologias:</h2>
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
