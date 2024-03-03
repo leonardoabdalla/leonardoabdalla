@@ -15,7 +15,7 @@ ___
 
 <ul>
   <li>- 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end.</li>
-  <li>- 🌱 Atualmente estou aprendendo C# e um pouco mais sobre AWS.</li>
+  <li>- 🌱 Atualmente estou aprendendo Python e um pouco mais sobre AWS.</li>
   <li>- 👯 Os projetos que irá encontrar dentre meus repositórios foram desenvolvidos tando individual quanto em grupo utilizando as tecnologias; HTML, CSS, Javascript, React, Redux, Context API, Hooks, Jest, Node.js com express, MySql, MongoDB, ORM sequelize, ODM mogoose, testes unitários e testes de integração.Os projetos foram desenvolvidos utilizando sistema operacional Unix, todos utilizando metodologias ágeis( Scrum e Kanban) e versionamento de código (Git/Github).</li>
   <li>- Linkedin: <a href="https://www.linkedin.com/in/leonardoabdalladeveloper/">Meu Linkedin</a></li>
   <li>- 📫 Email: leonardoabdalladeveloper@gmail.com</li>
@@ -36,6 +36,7 @@ ___
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 </br>
 
