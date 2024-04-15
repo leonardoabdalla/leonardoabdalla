@@ -7,7 +7,7 @@ ___
 <h2>Olá, me chamo Leonardo Abdalla:wave:</h2>
 <h3>Seja bem-vindo ao meu GitHub.</h3>
 
-<p>Sou desenvolvedor back-end, graduando em sistema de ineternet pela uniDomBosco, técnico em Sistemas de Internet pela UniDomBosco, proficiente em LIBRA e apaixonado por inovações e desafios.</p> 
+<p>Sou um desenvolvedor back-end apaixonado por inovação e desafios, atualmente cursando Sistemas de Internet na UniDomBosco. Tenho experiência tanto em projetos individuais quanto em equipe, utilizando uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, Python, React, Redux, Node.js, e mais. Meu foco é promover acessibilidade através da tecnologia, além de ajudar e ensinar outras pessoas a se desenvolverem.</p>
 
 <p>Minha missão é promover acessibilidade através da tecnologia.Não existe nada que me satisfaça mais que poder ensinar e ajudar pessoas a se desenvolverem, sendo assim,desenvolver e atualizar aplicações para que se tornem mais acessíveis além de promover a inclusão de pessoas com deficiência na tecnologia são algumas das coisas que considero mais importantes e que dizem muito sobre quem eu sou.</p>
 
@@ -16,7 +16,6 @@ ___
 <ul>
   <li>- 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor back-end.</li>
   <li>- 🌱 Atualmente estou aprendendo Python e um pouco mais sobre AWS.</li>
-  <li>- 👯 Os projetos que irá encontrar dentre meus repositórios foram desenvolvidos tando individual quanto em grupo utilizando as tecnologias; HTML, CSS, Javascript, Python, React, Redux, Context API, Hooks, Jest, Node.js, express, MySql, MongoDB, ORM sequelize, ODM mogoose, Nest, Next, Django, testes unitários e testes de integração.Os projetos foram desenvolvidos utilizando sistema operacional Unix, todos utilizando metodologias ágeis( Scrum e Kanban) e versionamento de código (Git/Github).</li>
   <li>- Linkedin: <a href="https://www.linkedin.com/in/leonardoabdalladeveloper/">Meu Linkedin</a></li>
   <li>- 📫 Email: leonardoabdalladeveloper@gmail.com</li>
   <li>- :phone: (21) 971433860</li>
